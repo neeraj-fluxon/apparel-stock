@@ -1,0 +1,55 @@
+[
+  {
+    "id": "AP1",
+    "name": "Tshirt",
+    "vendorId": "vendor1",
+    "sizes": {
+      "S": {
+        "quantity": 10,
+        "price": 20
+      },
+      "M": {
+        "quantity": 10,
+        "price": 21
+      },
+      "L": {
+        "quantity": 13,
+        "price": 25
+      },
+      "XL": {
+        "quantity": 138,
+        "price": 27
+      }
+    }
+  },
+  {
+    "id": "AP2",
+    "name": "shirt",
+    "vendorId": "vendor2",
+    "sizes": {
+      "S": {
+        "quantity": 5,
+        "price": 25
+      },
+      "L": {
+        "quantity": 8,
+        "price": 35
+      }
+    }
+  },
+  {
+    "id": "AP2",
+    "name": "Tshirt",
+    "vendorId": "vendor3",
+    "sizes": {
+      "S": {
+        "quantity": 5,
+        "price": 30
+      },
+      "L": {
+        "quantity": 8,
+        "price": 35
+      }
+    }
+  }
+]
